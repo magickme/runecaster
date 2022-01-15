@@ -221,7 +221,12 @@ const runecast = runes => {
     return runes[Math.floor(Math.random()*runes.length)]; 
 }
 
-console.log('Welcome to Runcaster 0.1 Alpha Build!')
+console.log(' ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ');
+console.log('||r |||u |||n |||e |||c |||a |||s |||t |||e |||r ||');
+console.log('||__|||__|||__|||__|||__|||__|||__|||__|||__|||__||');
+console.log('|/___|/___|/___|/___|/___|/___|/___|/___|/___|/___|')
+console.log('');
+console.log('Welcome to Runecaster 0.1 Alpha Build!');
 console.log('');
 console.log("Here's your three-rune reading:");
 console.log('');
